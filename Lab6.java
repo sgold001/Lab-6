@@ -12,7 +12,7 @@ public class Lab6 {
         System.out.print("Enter the second  number: ");
         int secondNum= scan.nextInt();
 
-        System.out.print( "The sum is: " +(firstNum + secondNum));
+        System.out.print( "The difference is: " +(firstNum -secondNum));
     }
 
 
